@@ -19,11 +19,11 @@ body {
 }
 .display-4 {
   font-family: 'Jost', sans-serif;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   line-height: 1.5;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.375rem;
+  font-size: 1.5rem;
 }
 .display-5 {
   font-family: 'Dancing Script', handwriting;
@@ -63,9 +63,9 @@ body {
     line-height: calc( 1.3 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.88rem;
-    font-size: calc( 1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.96rem;
+    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 1.6rem;
@@ -587,12 +587,12 @@ a:hover {
 }
 .form-control {
   font-family: 'Jost', sans-serif;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   line-height: 1.5;
   font-weight: 400;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.375rem;
+  font-size: 1.5rem;
 }
 .form-control:hover,
 .form-control:focus {
@@ -601,12 +601,12 @@ a:hover {
 }
 .form-control:-webkit-input-placeholder {
   font-family: 'Jost', sans-serif;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   line-height: 1.5;
   font-weight: 400;
 }
 .form-control:-webkit-input-placeholder > .mbr-iconfont {
-  font-size: 1.375rem;
+  font-size: 1.5rem;
 }
 blockquote {
   border-color: #6592e6;
@@ -1051,7 +1051,7 @@ a {
 .cid-tC0yoZg3dX {
   padding-top: 9rem;
   padding-bottom: 10rem;
-  background-image: url("../../../assets/images/284770034-822093238716404-3741597475516211980-n.jpeg");
+  background-image: url("../../../assets/images/07-1200x1600.jpeg");
 }
 .cid-tC0yoZg3dX .mbr-fallback-image.disabled {
   display: none;
@@ -1087,6 +1087,120 @@ a {
 .cid-tC0yoZg3dX .mbr-text,
 .cid-tC0yoZg3dX .mbr-section-btn {
   color: #fafafa;
+}
+.cid-tC69VLY3a8 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-tC69VLY3a8 .mbr-section-subtitle {
+  color: #e43f3f;
+}
+.cid-tC69VLY3a8 .mbr-section-title {
+  color: #e43f3f;
+}
+.cid-tC6dfVlXSg {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #f8dede;
+}
+.cid-tC6dfVlXSg img,
+.cid-tC6dfVlXSg .item-img {
+  width: 100%;
+}
+.cid-tC6dfVlXSg .item:focus,
+.cid-tC6dfVlXSg span:focus {
+  outline: none;
+}
+.cid-tC6dfVlXSg .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-tC6dfVlXSg .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #fafafa;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-tC6dfVlXSg .item-wrapper .item-content {
+    padding: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-tC6dfVlXSg .item-wrapper .item-content {
+    padding: 1rem;
+  }
+}
+.cid-tC6dfVlXSg .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-tC6dfVlXSg .mbr-section-title {
+  color: #e43f3f;
+}
+.cid-tC6dfVlXSg .mbr-text,
+.cid-tC6dfVlXSg .mbr-section-btn {
+  text-align: left;
+}
+.cid-tC6dfVlXSg .item-title {
+  text-align: left;
+  color: #e43f3f;
+}
+.cid-tC6dfVlXSg .item-subtitle {
+  text-align: left;
+}
+.cid-tC6iOxCVKC {
+  padding-top: 0rem;
+  padding-bottom: 6rem;
+  background-color: #f8dede;
+}
+.cid-tC6iOxCVKC img,
+.cid-tC6iOxCVKC .item-img {
+  width: 100%;
+}
+.cid-tC6iOxCVKC .item:focus,
+.cid-tC6iOxCVKC span:focus {
+  outline: none;
+}
+.cid-tC6iOxCVKC .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-tC6iOxCVKC .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #fafafa;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-tC6iOxCVKC .item-wrapper .item-content {
+    padding: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-tC6iOxCVKC .item-wrapper .item-content {
+    padding: 1rem;
+  }
+}
+.cid-tC6iOxCVKC .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-tC6iOxCVKC .mbr-section-title {
+  color: #e43f3f;
+}
+.cid-tC6iOxCVKC .mbr-text,
+.cid-tC6iOxCVKC .mbr-section-btn {
+  text-align: left;
+}
+.cid-tC6iOxCVKC .item-title {
+  text-align: left;
+}
+.cid-tC6iOxCVKC .item-subtitle {
+  text-align: left;
 }
 .cid-tC12PZpOHy {
   padding-top: 1rem;
